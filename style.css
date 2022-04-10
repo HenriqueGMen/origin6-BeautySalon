@@ -642,8 +642,6 @@ footer .social a:hover {
   
 }
 
-
-/* LARGE: 1023 > */
 /* LARGE: 992 */
 @media (min-width: 992px) {
   :root{
@@ -652,6 +650,4 @@ footer .social a:hover {
   }
 }
 
-
-/* MEDIUM */
 
